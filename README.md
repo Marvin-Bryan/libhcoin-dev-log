@@ -1,0 +1,1 @@
+# libhcoin-dev-log
